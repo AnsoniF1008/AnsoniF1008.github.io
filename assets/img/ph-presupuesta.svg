@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Imagen ilustrativa: PresupuestaPro">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#422006"/><stop offset="1" stop-color="#0b1220"/></linearGradient>
+<pattern id="p" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#eab308" stroke-opacity=".12"/></pattern></defs>
+<rect width="800" height="500" fill="url(#g)"/><rect width="800" height="500" fill="url(#p)"/>
+<rect x="60" y="60" width="680" height="380" rx="18" fill="#0b1220" fill-opacity=".55" stroke="#eab308" stroke-opacity=".5"/>
+<circle cx="92" cy="88" r="6" fill="#ef4444"/><circle cx="112" cy="88" r="6" fill="#eab308"/><circle cx="132" cy="88" r="6" fill="#22c55e"/>
+<text x="400" y="225" text-anchor="middle" font-size="64">📐</text>
+<text x="400" y="295" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="40" font-weight="700" fill="#fff">PresupuestaPro</text>
+<text x="400" y="335" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" fill="#eab308">Cotizaciones de construcción · TypeScript</text>
+<text x="400" y="410" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#94a3b8" letter-spacing="2">IMAGEN ILUSTRATIVA · NO ES CAPTURA DEL SITIO</text>
+</svg>
