@@ -1,0 +1,35 @@
+{
+  "note": "Credits for the photographs in this folder.",
+  "photos": [
+    {
+      "file": "photo-f196326408.jpg",
+      "files": [
+        "photo-f196326408-500.jpg",
+        "photo-f196326408-960.jpg",
+        "photo-f196326408.jpg"
+      ],
+      "id": "f196326408",
+      "alt": "Closed-circuit television (CCTV) cameras",
+      "by": "Fourhazzy",
+      "licence": "CC0",
+      "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "page": "https://commons.wikimedia.org/wiki/File:Closed-circuit_television_(CCTV)_cameras.jpg",
+      "source": "Wikimedia Commons"
+    },
+    {
+      "file": "photo-f107886263.jpg",
+      "files": [
+        "photo-f107886263-500.jpg",
+        "photo-f107886263-960.jpg",
+        "photo-f107886263.jpg"
+      ],
+      "id": "f107886263",
+      "alt": "CCTV camera in Poland (1)",
+      "by": "MichalPL",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:CCTV_camera_in_Poland_(1).jpg",
+      "source": "Wikimedia Commons"
+    }
+  ]
+}
